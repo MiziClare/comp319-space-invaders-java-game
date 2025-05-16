@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.liverpool.ac.uk/" target="blank">
-    <img src="Liverpool_logo.png" alt="Logo" width="156" height="156">
+    <img src="Liverpool_logo.png" alt="Logo" height="156">
   </a>
 </p>
 
